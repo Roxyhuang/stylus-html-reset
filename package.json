@@ -1,0 +1,25 @@
+{
+  "name": "stylus-html-reset",
+  "version": "0.0.1",
+  "description": "stylus module for html reset",
+  "main": "lib/rest.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roxyhuang/stylus-html-reset"
+  },
+  "keywords": [
+    "html-reset",
+    "rem",
+    "px"
+  ],
+  "author": "Neo_Huang",
+  "license": "MIT",
+  "dependencies": {
+    "stylus": "^0.54.2"
+  },
+  "devDependencies": {
+  }
+}
